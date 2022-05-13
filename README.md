@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### I'm Augusto Coelho, Computer Enginner
+
+🧪 I'm currently learning automated testing
+
+💻 I'm working as a back-end developer and QA analist
 <!--
 **AugustoBaden/AugustoBaden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +20,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###I'm Augusto Coelho, Computer Enginner
