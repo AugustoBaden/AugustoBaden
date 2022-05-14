@@ -1,4 +1,4 @@
-### I'm Augusto Coelho, Computer Enginner/QA Analist
+### I'm Augusto Coelho, Computer Engineer
 
 🧪 I'm currently learning automated testing
 
