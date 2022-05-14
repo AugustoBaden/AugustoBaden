@@ -19,13 +19,15 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
- <img align="center"  height="30" width="40" background=white src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-  
+ <img align="center"  height="30" width="40" fill=white src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+<img align="center"  height="30" width="40" fill=white  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+          
+           
   
           
           
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/Bj6G27nF3gbOwN18TfMcqKnU-sbj4DmWZRI0To0/?width=676&height=676">
-</div>
+ </div>
   
   ##
   
