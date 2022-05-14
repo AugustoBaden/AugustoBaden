@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/augusto-coelho-melo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://t.me/AugustoOppenheimer" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/augusto-coelho-melo/augusto-coelho-melo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AugustoBaden/AugustoBaden/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 <!--
