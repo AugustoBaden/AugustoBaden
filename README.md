@@ -13,7 +13,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="30" width="40" fill=white  src="https://github.com/cypress-io/cypress-icons/blob/e61b554695b28267a1387a839f816c73e7a7e95e/src/logo/cypress-io-logo-inverse.svg"/>
+  <img align="center"  height="30" width="40" fill=white  src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round-flat.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img align="center"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
