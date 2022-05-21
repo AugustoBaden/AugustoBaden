@@ -1,4 +1,4 @@
-### I'm Augusto Coelho, Computer Enginner/QA Analist
+### I'm Augusto Coelho, Computer Engineer
 
 🧪 I'm currently learning automated testing
 
@@ -16,7 +16,8 @@
   <img align="center"  height="30" width="40" fill=white  src="https://github.com/cypress-io/cypress-icons/blob/e61b554695b28267a1387a839f816c73e7a7e95e/src/logo/cypress-io-logo-inverse.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img align="center"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" />
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
@@ -26,6 +27,8 @@
 <img align="center"  height="30" width="40" fill=white  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
 <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+ <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+          
           
           
            
@@ -43,7 +46,7 @@
   <a href="https://www.linkedin.com/in/augusto-coelho-melo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://t.me/AugustoOppenheimer" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/augusto-coelho-melo/augusto-coelho-melo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AugustoBaden/AugustoBaden/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 <!--
