@@ -1,10 +1,9 @@
-### I'm Augusto Coelho, Computer Engineer
-
-🧪 I'm currently learning automated testing
-
-💻 I'm working as a back-end developer and QA analist
-
-🔭I’m looking to collaborate on IoT projects using Raspberry pi and image Processing
+### I'm Augusto Coelho, 
+QA Analyst with over 5 years of experience in manual and automated testing of software for web and mobile applications.
+Solid experience throughout the life cycle of software development (SDLC) and agile methodologies (Scrum/Kanban).
+Specialist in creating and maintaining test automation frameworks with Playwright and Cypress, and mobile testing with Appium.
+Proficient in tools of market such as Jira, TestRail, Postman, JMeter and BrowserStack. Proven history in identifying and documenting bugs, ensuring quality and integration continuous (CI/CD) of the products.
+I seek to apply my technical skills and analytics to add value to an innovative development team.
 
 <div align="center">
   <a href="https://github.com/AugustoBaden">
